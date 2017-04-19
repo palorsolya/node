@@ -1,0 +1,12 @@
+{
+"name" : "Orsi"
+, "email" : "pal.orsolya@fornax.hu"
+, "license": "ISC"
+, "description" : "NodeSchool learnyounode learning curve"
+
+,"repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/palorsolya/node.git"
+  }
+
+}
